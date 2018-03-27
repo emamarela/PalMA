@@ -143,7 +143,7 @@ msgstr ""
 
 #: index.php:1107
 msgid "Add webpage"
-msgstr ""
+msgstr "Shto faqe webi"
 
 #: index.php:1110
 msgid "Enter URL"
@@ -151,7 +151,7 @@ msgstr "Fut URL"
 
 #: index.php:1113
 msgid "Click here to show the webpage on the screen."
-msgstr ""
+msgstr "Kliko këtu per te parë faqen e webit ne ekran."
 
 #: index.php:1114
 #, fuzzy
@@ -160,7 +160,7 @@ msgstr "Fut URL"
 
 #: index.php:1121
 msgid "Add your screen"
-msgstr ""
+msgstr "Shto ekranin tend"
 
 #: index.php:1122
 msgid "Download screensharing tool"
@@ -178,7 +178,7 @@ msgstr ""
 
 #: index.php:1136
 msgid "Navigate"
-msgstr ""
+msgstr "Navigo"
 
 #: index.php:1142 index.php:1149 index.php:1157 index.php:1165 index.php:1178
 msgid "Choose screen layout"
@@ -190,11 +190,11 @@ msgstr "Mbyll gjithe dritaret dhe fshi filet e ngarkuara"
 
 #: index.php:1194
 msgid "Delete all items"
-msgstr ""
+msgstr "Fshi te gjithe objektet"
 
 #: index.php:1200
 msgid "Help"
-msgstr ""
+msgstr "Ndihme"
 
 #: index.php:1201
 msgid "Feedback"
@@ -326,7 +326,7 @@ msgstr ""
 
 #: index.php:1257
 msgid "Hide and show"
-msgstr ""
+msgstr "Fshih dhe trego"
 
 #: index.php:1258
 #, fuzzy
@@ -335,7 +335,7 @@ msgstr "Zvogelo"
 
 #: index.php:1259
 msgid "Rotate"
-msgstr ""
+msgstr "Rrotullo"
 
 #: index.php:1260
 #, fuzzy
@@ -344,7 +344,7 @@ msgstr "Shkarko kete skedar"
 
 #: index.php:1261
 msgid "Delete the item"
-msgstr ""
+msgstr "Fshi kete objekt"
 
 #: index.php:1263
 msgid "Below you find the navigation controls."
@@ -400,7 +400,7 @@ msgstr ""
 
 #: index.php:1340
 msgid "Tell us what you think"
-msgstr ""
+msgstr "Na tregoni çfare mendoni"
 
 #: index.php:1342
 msgid ""
@@ -415,7 +415,7 @@ msgstr "Faleminderit!"
 #: index.php:1349
 #, fuzzy
 msgid "Select language:"
-msgstr "Zgjidh mjedisin e punes"
+msgstr "Zgjidh gjuhën"
 
 #: index.php:1366
 msgid "User list"
@@ -427,7 +427,7 @@ msgstr "Lista e perdoruesve te lidhur"
 
 #: index.php:1372
 msgid "New users can join at"
-msgstr ""
+msgstr "Perdorues te rinj mund te bashkohen tek"
 
 #: index.php:1382
 #, fuzzy
@@ -436,7 +436,7 @@ msgstr "Shkeput te gjithe perdoruesit dhe reseto mjedisin e punes"
 
 #: index.php:1383
 msgid "End the session"
-msgstr ""
+msgstr "Perfundo sesionin"
 
 #: index.php:1395
 msgid "Disconnect the current user"
